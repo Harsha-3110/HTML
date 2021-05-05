@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+    width: 10%;
+    margin-left: 171px;
+    margin-top: 18px;
+}
+.menu{
+	float: right;
+}
+.menu ul li{
+	        display: inline-block;
+			width: 124px;
+			height: 33px;
+			text-align: center;
+			color: pink;
+			/*font-weight: bold;*/
+			line-height: 33px;
+			padding-left: 36px;
+		}
+.image{  
+          width: 100%;
+          height: 50%;
+  }
+  .brand-heading{
+  	height: 80%;
+    margin-top: -413px;
+    margin-left: 550px;
+    font-size: 47px;
+    color: white;
+  }
+   
+}
+.About{
+ text-align: center;
+ color: #d70f64;  
+ font-size: 45px;
+ margin-top: 600px;
+}

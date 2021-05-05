@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	 width: 100%;
+    height: 65px;
+    background: #00bfa5;
+    margin: auto;
+}
+.img{
+	width: 59px;
+    margin-top: 15px;
+    padding-left: 252px;
+}
+.menu{
+	margin-top:-27px; 
+	margin-left:146px;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+	padding-left: 154px;
+}
+.part2{
+	/*border: 2px solid;*/
+	width: 50%;
+	height: 600px;
+	margin: auto;
+	margin-top: 64px;
+}
+.mobimage{
+	margin-top: 45px;
+	width: 326px;
+	height: 578px;
+	margin-left: 457px;
+}
+.content{
+			/border: 2px solid;/
+			width: 389px;
+			height: 400px;
+			
+			/margin-left: 400px;/
+			margin-top: -435px;
+
+		}
